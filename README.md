@@ -23,7 +23,7 @@ Hello! I'm a software developer with a passion for building iOS apps with Swift 
 
 ## Contact
 
-I'm open to collaboration and exciting opportunities! Feel free to reach out to me via email at [your_email@example.com](mailto:yvzfth@yandex.com) or connect with me on LinkedIn at [linkedin.com/in/yvzfth](https://www.linkedin.com/in/yvzfth).
+I'm open to collaboration and exciting opportunities! Feel free to reach out to me via email at [yvzfth@yandex.com](mailto:yvzfth@yandex.com) or connect with me on LinkedIn at [linkedin.com/in/yvzfth](https://www.linkedin.com/in/yvzfth).
 
 Let's build amazing software together!
 
